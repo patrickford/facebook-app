@@ -1,0 +1,25 @@
+{
+  "name": "facebook-app",
+  "version": "1.0.0",
+  "description": "Test app for facebook",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickford/facebook-app.git"
+  },
+  "keywords": [
+    "facebook"
+  ],
+  "author": "Patrick Ford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickford/facebook-app/issues"
+  },
+  "homepage": "https://github.com/patrickford/facebook-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
